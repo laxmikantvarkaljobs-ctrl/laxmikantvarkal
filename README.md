@@ -1,2 +1,0 @@
-# laxmikantvarkal
-Portfolio website
