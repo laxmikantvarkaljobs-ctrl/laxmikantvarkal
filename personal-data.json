@@ -2,6 +2,7 @@
     "name": "Laxmikant Varkal",
     "role": "Frontend Engineer",
     "email": "varkallaxmikant62@gmail.com",
+    "phone": "+91 9325750978",
     "github": "https://github.com/lucky0011198",
     "linkedin": "https://www.linkedin.com/in/laxmikant-varkal-489a8a1a5",
     "baseURL": "https://laxmikantvarkal1.github.io/Portfolio/assets",
@@ -124,7 +125,7 @@
             ],
             "link": "https://laxmikantvarkal1.github.io/AVR-garment/",
             "repoUrl": "https://github.com/LaxmikantVarkal1/AVR-garment",
-            "image": "https://laxmikantvarkal1.github.io/Portfolio/assets/avr.png"
+            "image": "https://laxmikantvarkal1.github.io/Portfolio/avr.png"
         },
         {
             "title": "Portfolio Website",
@@ -142,7 +143,7 @@
             ],
             "link": "https://laxmikantvarkal1.github.io/Portfolio/",
             "repoUrl": "https://github.com/LaxmikantVarkal1/Portfolio",
-            "image": "https://laxmikantvarkal1.github.io/Portfolio/assets/laxmikant.png"
+            "image": "https://laxmikantvarkal1.github.io/Portfolio/laxmikant.png"
         }
     ],
     "assets": {
