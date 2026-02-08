@@ -1,0 +1,158 @@
+{
+    "name": "Laxmikant Varkal",
+    "role": "Frontend Engineer",
+    "email": "varkallaxmikant62@gmail.com",
+    "phone": "+91 9325750978",
+    "github": "https://github.com/lucky0011198",
+    "linkedin": "https://www.linkedin.com/in/laxmikant-varkal-489a8a1a5",
+    "baseURL": "https://laxmikantvarkal1.github.io/Portfolio/assets",
+    "careerStartDate": "2022-07-13",
+    "summary": "Frontend Engineer with 3+ years of experience in Angular and responsive UI design. Skilled in building scalable web apps with a strong UX focus. Interested in performance optimization and pixel-perfect UI.",
+    "experience": [
+        {
+            "company": "Cumulus System",
+            "role": "Software Engineer",
+            "duration": "Feb 2022 – Present",
+            "dateOfJoining": "2022-07-13",
+            "description": "Developed and maintained features using Angular, JavaScript, SCSS. Designed reusable UI components with responsive layouts. Debugged and improved performance of codebase. Used Jenkins for builds and deployments."
+        },
+        {
+            "company": "Blueshelt Services LLP",
+            "role": "Web Developer Intern",
+            "duration": "Jun 2021 – Sep 2021",
+            "description": "Built interactive websites using React.js and HTML5. Designed user-friendly UI with best practices."
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.Tech (Electronics Engineering)",
+            "institution": "Walchand Institute of Technology, Solapur",
+            "year": "2019 – 2022"
+        },
+        {
+            "degree": "Diploma (Electronics & Telecommunication)",
+            "institution": "Solapur Education Society Polytechnic",
+            "year": "2016 – 2019"
+        }
+    ],
+    "skills": [
+        "Angular",
+        "ReactJS",
+        "JavaScript",
+        "TypeScript",
+        "SCSS",
+        "HTML",
+        "CSS",
+        "Node.js",
+        "Git",
+        "Figma"
+    ],
+    "stats": {
+        "yearsOfExperience": 3,
+        "projectsCompleted": 10,
+        "clientsSatisfied": 5
+    },
+    "services": [
+        {
+            "title": "Frontend Dev.",
+            "description": "Building scalable SPAs with performance in mind.",
+            "features": [
+                "Angular, ReactJS, TypeScript",
+                "Component-Based Architecture",
+                "State Management (Redux)"
+            ],
+            "icon": "Code2",
+            "tag": "3+ Years",
+            "variant": "primary"
+        },
+        {
+            "title": "UI/UX Design.",
+            "description": "Crafting pixel-perfect interfaces with a focus on usability.",
+            "features": [
+                "Responsive Web Design",
+                "Figma & Prototyping",
+                "Modern CSS / SCSS / Tailwind"
+            ],
+            "icon": "Layout",
+            "tag": "Focus on Usability",
+            "variant": "secondary"
+        },
+        {
+            "title": "Backend Basics.",
+            "description": "Understanding the full stack to integrate seamlessly.",
+            "features": [
+                "Node.js & Express",
+                "RESTful API Development",
+                "Database Basics (MongoDB/SQL)"
+            ],
+            "icon": "Server",
+            "tag": "Integration Ready",
+            "variant": "secondary"
+        }
+    ],
+    "socials": [
+        {
+            "name": "LinkedIn",
+            "url": "https://www.linkedin.com/in/laxmikant-varkal-489a8a1a5",
+            "icon": "Linkedin"
+        },
+        {
+            "name": "GitHub",
+            "url": "https://github.com/lucky0011198",
+            "icon": "Github"
+        },
+        {
+            "name": "Email",
+            "url": "mailto:varkallaxmikant62@gmail.com",
+            "icon": "Mail"
+        }
+    ],
+    "projects": [
+        {
+            "title": "Garment Management System",
+            "description": "AVR Garment Management System helps track the complete lifecycle of garment production. The system provides role-based dashboards to ensure transparency, accountability, and smooth coordination between different stages of production. Authentication and data storage are securely managed using Supabase, enabling role-based login, real-time data updates, and reliable database handling.",
+            "longDescription": "A full-stack solution designed to streamline the garment manufacturing lifecycle. Features include real-time inventory tracking, order management, and detailed reporting analytics.",
+            "tech": [
+                "React",
+                "Tailwind CSS",
+                "Superbase"
+            ],
+            "features": [
+                "Role-based dashboards",
+                "Real-time data updates",
+                "Secure authentication",
+                "Reliable database handling"
+            ],
+            "link": "https://laxmikantvarkal1.github.io/AVR-garment/",
+            "repoUrl": "https://github.com/LaxmikantVarkal1/AVR-garment",
+            "image": "https://laxmikantvarkal1.github.io/Portfolio/assets/avr.png"
+        },
+        {
+            "title": "Portfolio Website",
+            "description": "Personal portfolio website built with React and Tailwind CSS.",
+            "longDescription": "A modern, responsive portfolio website to showcase my skills and projects. Built with a focus on performance and accessibilty, featuring dark mode and smooth animations.",
+            "tech": [
+                "React",
+                "Tailwind CSS"
+            ],
+            "features": [
+                "Responsive design",
+                "Dark mode",
+                "Smooth animations",
+                "Performance optimization"
+            ],
+            "link": "https://laxmikantvarkal1.github.io/Portfolio/",
+            "repoUrl": "https://github.com/LaxmikantVarkal1/Portfolio",
+            "image": "https://laxmikantvarkal1.github.io/Portfolio/assets/laxmikant.png"
+        }
+    ],
+    "assets": {
+        "hero": "https://i.pinimg.com/1200x/79/f1/99/79f1999bddccd1a07d588d07620b5a90.jpg",
+        "backgrounds": {
+            "hero": "",
+            "experience": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=2070&auto=format&fit=crop",
+            "skills": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=2070&auto=format&fit=crop",
+            "projects": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=2015&auto=format&fit=crop"
+        }
+    }
+}
